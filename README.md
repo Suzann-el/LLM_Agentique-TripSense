@@ -1,7 +1,7 @@
 # ✈️ TripSense — Agent LLM de voyage en temps réel
 
 > **Projet Data Science — Portfolio**
-> Auteure : Saoussan Elhaouzi · Master Data Scientist RNCP Niv.7 · CentraleSupélec
+
 
 ---
 
