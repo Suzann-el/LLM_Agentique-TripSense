@@ -1,8 +1,6 @@
 # ✈️ TripSense — Agent LLM de voyage en temps réel
 
-> **Projet Data Science — Portfolio**
-
-
+Auteure : SaoussanEL
 ---
 
 ## Contexte
