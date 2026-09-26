@@ -1,0 +1,6 @@
+anthropic
+requests
+streamlit
+fastapi
+uvicorn
+pydantic
