@@ -63,7 +63,7 @@ graphique vs API REST), ce qui évite toute duplication de code.
 git clone https://github.com/Suzann-el/TripSense.git
 cd TripSense
 pip install -r requirements.txt
-cp .env.example .env   # puis renseigner ta clé ANTHROPIC_API_KEY dedans
+cp .env.example .env   # puis renseigner ma clé ANTHROPIC_API_KEY dedans
 ```
 
 ## Utilisation
@@ -97,8 +97,7 @@ curl -X POST http://localhost:8000/chat \
 - **Streamlit Community Cloud** (gratuit) pour l'interface de chat
 - **Render** (gratuit) pour l'API, via le `Procfile` fourni
 
-Dans les deux cas, penser à définir la variable d'environnement
-`ANTHROPIC_API_KEY` dans les paramètres de la plateforme (jamais dans le code).
+
 
 ## Ce que ce projet démontre
 
