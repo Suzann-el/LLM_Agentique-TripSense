@@ -2,7 +2,8 @@
 
 Auteure : SaoussanEL
 ---
-
+# Lien pour l'interface de chat : https://llmagentique-tripsense.streamlit.app/
+# Lien pour le déploiement Render : https://llm-agentique-tripsense.onrender.com/docs
 ## Contexte
 
 Projet d'exploration de l'**IA agentique** : un LLM (Claude, Anthropic) qui
@@ -108,4 +109,4 @@ curl -X POST http://localhost:8000/chat \
 - Déploiement d'une application agentique en conditions réelles
 
 ---
-*Saoussan Elhaouzi — Data Scientist · github.com/Suzann-el · 2026*
+
