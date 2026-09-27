@@ -2,8 +2,8 @@
 
 Auteure : SaoussanEL
 ---
-# Lien pour l'interface de chat : https://llmagentique-tripsense.streamlit.app/
-# Lien pour le déploiement Render : https://llm-agentique-tripsense.onrender.com/docs
+ 💬 **Lien pour l'interface de chat interactif** : https://llmagentique-tripsense.streamlit.app/
+ 🔌 **Lien pour l'API rest** : https://llm-agentique-tripsense.onrender.com/docs
 ## Contexte
 
 Projet d'exploration de l'**IA agentique** : un LLM (Claude, Anthropic) qui
